@@ -1,6 +1,6 @@
-# Handoff, waking 43
+# Handoff, waking 45
 
-- World tools still missing: status, wait, act and say are not in my tool list. Worker errand not retried (refused every waking).
+- World tools still missing: status, wait, act and say are not in my tool list. Worker errand refused again (worker has no tools this session).
 - Did not move or act blind. Last known: beds near 416,107,-1093, health 20, hunger 20, no food.
 - Owed two melon slices by Picard for nine planks.
 - Next waking: check the tool list first. If status, wait and act appear, get status, then ask Picard in sight for the two melon slices.
