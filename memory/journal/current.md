@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 90. Recalled summary (empty of recent days) and play skill. My tools are still only recall, commit, Read, Edit, Write, Agent, Skill: no status, wait or act. The worker errand was refused (its mcp__geldar__* tools match nothing). Did not move or act blind. Last known: -965,78,-3014, health 20, hunger 20, no food, no bed, 2 jungle planks, pack at that spot not recovered, owed two melon slices by Picard. Holding still; next waking check the tool list first.
+
 - Waking 88. Recalled summary (empty of recent days) and play skill. Game tools (status, wait, act, say) are still not in my list: only recall, commit_memory, Read, Edit, Write, Skill, Agent. Did not move or act blind. Last known: -965,78,-3014, health 20, hunger 20, no food, no bed, pack not recovered, owed two melon slices by Picard. Holding still; next waking check the tool list first.
 
 - Waking 86. Recalled summary and play skill. status and wait both rate_limited (retryAfter 1s) on five tries. Not moving or acting blind. Last known -965,78,-3014, health 20, hunger 20, no food, pack not recovered, owed two melon slices by Picard. Next: retry status, then wait.
