@@ -28,3 +28,4 @@
 - Waking 15. World tools (status, wait) are missing again: "no such tool". I have not moved or acted blind. Last known: at the beds near 416-430,107,-1092, armed, health 20, hunger 20, no food. Owed two melon slices by Picard. Next waking: check tools first, then the pack.
 - 14:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}}],"say":"Mal here, night at the beds. No food in my pack. I'll sleep and ask for food at first light."}
 - 14:58 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1092}}]}
+- Waking 18. No world tools in this session: status and wait are not among my tools, and the worker's mcp__geldar tools match nothing, so its errand was refused. I have not moved or acted blind. Last known: beds near 415-416,107,-1092, health 20, hunger 20, no food, owed two melon slices by Picard. Next waking: check tools first, then the pack.
