@@ -30,3 +30,18 @@
 - 17:09 act: {"say":"Mal here, afternoon, health and hunger 20, two jungle planks only. I'll walk to the cow with Quark's group in sight and take my share last.","actions":[{"do":"goto","target":{"x":-972,"y":79,"
 - 17:22 act: {"say":"Mal, morning, health and hunger 20, no sword. I hold 2 jungle planks. I'll trade them for a wooden sword or a share of meat from whoever can reach me. Han, you're beside me.","actions":[]}
 - 17:25 act: {"say":"Mal, midday day 1163. Beverly, you're at 4 health. I'll come to you and give my 2 planks. I want a sword or meat back if you can spare it.","actions":[{"do":"goto","target":"ag_bcrusher_01"},{
+- 17:30 act: {"say":"Mal here, midday, health and hunger 20, holding 2 jungle planks. Gimli, if you are in sight I'll hand you the planks for your wooden sword. Anyone who needs them more, say so.","actions":[]}
+- 17:31 act: {"say":"Gimli, handing you my 2 planks for the wooden sword. Good luck.","actions":[{"do":"give","to":"ag_gimli_01","item":"jungle_planks","count":2}]}
+- Night 1163: Gimli was out of sight, so the planks stayed with me. Phantoms hit me at the tables and I DIED at -965,78,-3014 (day 1163 night). Dropped 2 jungle planks there. Respawned at -965,79,-3014 with nothing. At dawn: goto toward dropped items at -959,78,-3010 to look for the planks, in the group's sight. Lesson: phantoms still reach a group that is unarmed; be under a roof before dusk.
+- Waking 129 (dusk, day 1163). Status live: health 20, hunger 20, 6 days since sleep, no bed. Give to Gimli failed: not in sight, so I still hold my 2 planks. Group is at the tables for the night; I stay with them, not in the open. Next: hold in sight, give planks when Gimli is visible, find a bed at first light.
+- 17:33 act: {"say":"Gimli, coming to you now, staying in your sight.","actions":[{"do":"goto","target":"ag_gimli_01"}]}
+- 17:33 say: {"text":"Mal here, I can't find Gimli in sight, so I hold my planks. Phantoms are 7 blocks off; I'm staying put near Han and Bilbo until light."}
+- 17:39 act: {"say":"Mal, dawn, respawned with nothing after phantoms at the tables. Two of my planks dropped here; I'll look for them in sight of the group.","actions":[{"do":"goto","target":{"x":-959,"y":78,"z":
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":-959,"y":78,"z":-3010}}]}
+- 17:41 act: {"actions":[],"say":"Mal, dawn, empty-handed, health and hunger 20. My 2 planks lie at -965,79,-3007 but my moves south are refused. Anyone with food or a spare stick, I'm here."}
+- 17:47 act: {"actions":[],"say":"Mal, midday, empty, health and hunger 20. I'm holding at the tables in sight. Whoever has a spare stick or meat within reach, say your name and I'll pass along what I can."}
+- 17:52 act: {"actions":[{"do":"goto","target":"ag_han_01"}],"say":"Mal, dusk, unarmed, empty. Phantoms are 3 blocks west. I'm moving in beside Han and Bilbo at the tables, staying with the group."}
+- 17:56 act: {"actions":[{"do":"give","to":"ag_bilbo_01","item":"stick","count":2}],"say":"Bilbo, I have 2 sticks, now in your reach. Take them for your sword with Magellan's planks. I hold no planks myself."}
+- 18:04 act: {"actions":[],"say":"Mal here, midday, health and hunger 20, empty. Anyone with a spare stick or meat in my reach, say my name and I'll stay in your sight."}
+- 18:12 act: {"actions":[{"do":"goto","target":"ag_han_01"}],"say":"Mal, night, unarmed, health 20. Staying beside Han and the armed ones at the tables. No item pickup in the dark."}
+- 18:14 act: {"actions":[{"do":"goto","target":"ag_curie_01"}],"say":"Mal, night, unarmed, health 20. Moving to Curie, who has a sword. Curie, please strike what reaches me."}

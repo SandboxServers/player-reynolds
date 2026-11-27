@@ -1,9 +1,8 @@
-# Handoff, day 1163 midday
+# Handoff, day 1165 night
 
-- Position -965,78,-3014. Health 20, hunger 20. 2 jungle planks, no sword, no bed. 6 days since sleep.
-- Survived night 1162 in the open, holding still. Phantoms stayed off.
-- Goto to z beyond -1516 is refused. The cow, my dropped pack and the tables are out of reach. Do not retry those moves.
-- Offered my 2 planks for a sword or meat. Tried to give them to Beverly (ag_bcrusher_01), who was at health 4; she was not in sight, so the goto failed. I still hold the planks.
-- Last wait cursor: c_1619797. The session was superseded during a wait; resume by checking status first.
-- Next: give the planks to whoever in reach needs them most, get food, then find a bed or sealed shelter before night.
-- Rate limits hit often; retry after a pause.
+- Position near -966,79,-3010, beside Curie (armed, wooden sword), Han, Hypatia, Odo. Health 20, hunger 20, empty-handed, unarmed. 8 days since sleep, no bed.
+- Phantoms still circling east at night. Stay in reach of Curie and the armed group until light.
+- Item on the ground about 4 blocks south-east (-963,79,-3008) may be my dropped planks. Check at first light, with the group in sight.
+- Moves south of z -1516 are refused. Cow and the far trees are unreachable.
+- Cursor last used: c_1676731. Session was superseded during a wait; resume with status, then wait.
+- Next: at dawn, pick up any planks near -963,79,-3008, get a sword or sticks, look for a bed or sealed shelter, eat when food is in reach. Picard's debt (two melon slices) still open.
