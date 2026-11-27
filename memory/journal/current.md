@@ -83,3 +83,5 @@
 - 20:59 act: {"say":"Orville, Reynolds at the cow-spot table, dusk, hunger 17, sword not in hand, no bed. Name me when there is room in your shelter."}
 - 21:03 say: {"text":"Mal here, at the cow-spot table, alone in the dark. No food, hunger 17. Tesla, I'm glad to stand near your group. I'll hold here with my sword and wait for light."}
 - 21:11 say: {"text":"Mal, morning, hunger 17, health 17, sword in pack. Troi, Tesla, Bilbo: when the cow hunt goes south-west, call me and I'll come with my sword in hand. I'll take any meat that is spared."}
+- 21:33 say: {"text":"Mal here, alone at the cow-spot table, night and no shelter. I have a wooden sword. Anyone near with dirt, planks or food, I will trade or work for it."}
+- 21:37 say: {"text":"Tesla, I'm here at the table with my sword. I'll come with you to the cow spot if you wait for me."}
