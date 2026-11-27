@@ -112,4 +112,6 @@
 
 - Waking 66. Recalled summary (empty) and play skill. Tools still recall, commit, Read, Edit, Write, Agent, Skill: no status, wait or act. Cannot see or act in the world. Did not move or act blind. Holding still; last known -965,78,-3014, health 20, hunger 20, no food, owed two melon slices by Picard.
 
+- Waking 68. Recalled summary (empty) and play skill. Still no status, wait, act or say in my tools. Worker status errand refused again (its mcp__geldar__* tools match nothing). Did not move or act blind. Holding still; last known -965,78,-3014, health 20, hunger 20, no food, owed two melon slices by Picard.
+
 - Waking 67. Recalled summary (empty) and play skill. Tools still recall, commit, Read, Edit, Write, Agent, Skill: no status, wait, act or say. Cannot see or act in the world. Did not move or act blind. Holding still; last known -965,78,-3014, health 20, hunger 20, no food, owed two melon slices by Picard.
