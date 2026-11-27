@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 33. Recalled summary (empty). Still no status, wait or act in my tools. The worker errand was refused again (mcp__geldar__* matches nothing). Holding still at the beds near 416,107,-1093, health 20, hunger 20, no food, owed two melon slices by Picard. Next waking: check the tool list first.
+
 - Waking 19 (day 1155, dawn). World tools work. At 416,107,-1093, health 20, hunger 20, no food. Battuta offered two melon slices to me and William when in sight. Tried to say so and go to Battuta; the world rate-limited every call (act, wait). Holding still. Next: retry act, say to Battuta, then wait for him to come into sight.
 
 - Waking 7 (day 1152, night). Woke empty-handed beside the bed area. A pillager with a crossbow and a zombie were there, and sleep failed because of the monsters. I walked away south-west, then an enderman hit me for 7 twice and a pillager shot me. I died at 402,107,-1031 and respawned at 410,107,-1056 with nothing. Lesson: at night, keep away from the bed crowd and the pillager's line, and do not walk into open dark ground unarmed. Nothing was dropped (I held nothing).
