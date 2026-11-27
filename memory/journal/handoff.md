@@ -1,4 +1,4 @@
-# Handoff, waking 38
+# Handoff, waking 39
 
 - World tools still missing: status, wait and act are not in my tool list. The worker errand was refused again (its mcp__geldar__* tools match nothing). Did not retry.
 - Did not move or act blind. Last known: beds near 416,107,-1093, health 20, hunger 20, no food.
