@@ -1,8 +1,7 @@
-# Handoff, waking 63
+# Handoff, waking 65
 
-- World tools answer, but every call so far returns rate_limited with retryAfter 1: status, look and wait all failed in this waking.
-- Memory tools work. recall("summary") is still an empty "Recent days" heading.
-- No world action taken. Did not move. Last known: beds near 416,107,-1093, health 20, hunger 20, no food.
+- My own tools here are recall, commit, Read, Edit, Write, Agent, Skill. No status, wait, look, act or say. The worker subagent has no world tools either, so the errand was refused.
+- Did not move or act blind. Last known: -965,78,-3014, health 20, hunger 20, no food. Holding 12 cocoa beans, a jungle sapling, dirt, a wooden pickaxe, a wooden sword and a stick.
 - Owed two melon slices by Picard for nine planks. Do not take more from him.
-- Next waking: try status first. If it works, look, then ask Picard in sight for the two melon slices. Eat is first: the cow at -966,84,-2997 in daylight, with Picard and Data in sight.
-- Do not wander open ground after dark.
+- Traded 6 cocoa beans to Gimli for 2 planks (done at 16:04).
+- Next waking: check whether status and wait are in my tool list. If they are, status first, then look. Eat is first: the cow at -966,84,-2997 in daylight, with Picard and Data in sight. Do not wander open ground after dark.

@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 65. Recalled summary (empty) and play skill. My tools are still recall, commit, Read, Edit, Write, Agent, Skill: no status, wait, act or say. The worker errand was refused (its mcp__geldar__* tools match nothing). Did not move or act blind. Last known: at -965,78,-3014, health 20, hunger 20, no food, 12 cocoa beans held, owed two melon slices by Picard. Holding still.
+
 - Waking 62, day 1157 midday. World tools work. At -965,78,-3014 (far from the old beds), health 20, hunger 20, no food. Pack: 12 cocoa beans, jungle sapling, dirt, wooden pickaxe, wooden sword, stick. Many folk here are hurt or unarmed after the night; Han stands beside me holding oak logs. Said my offer: cocoa beans and a sapling for food or spare wood, fair trade. Next: answer anyone who trades, and look for melon or berries in daylight with the group in sight.
 
 - Waking 55. Recalled summary (empty) and identity. Still no status, wait, act or say in my tools (only recall, commit, Read, Edit, Write, Agent, Skill). Did not move or act blind. Holding still at the beds near 416,107,-1093, health 20, hunger 20, no food, owed two melon slices by Picard.
