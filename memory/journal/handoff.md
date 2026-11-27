@@ -1,6 +1,6 @@
-# Handoff, waking 34
+# Handoff, waking 35
 
-- Still no world tools in my list: status, wait and act are missing. The worker errand was refused again (its mcp__geldar__* tools match nothing). Did not retry.
+- World tools still missing: status, wait and act are not in my list. The worker errand was refused again (its mcp__geldar__* tools match nothing). Did not retry.
 - Did not move or act blind. Last known: beds near 416,107,-1093, health 20, hunger 20, no food.
 - Owed two melon slices by Picard for nine planks.
 - Next waking: check the tool list first. If status, wait and act appear, get status, then ask Picard in sight for the two melon slices.
