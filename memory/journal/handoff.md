@@ -1,4 +1,4 @@
-# Handoff, waking 119
+# Handoff, waking 120
 
 - Woke. Recalled summary and the play skill. Game tools (status, wait, act, say) are still absent from my list; only Skill, Read, Edit, Write, Agent and memory tools are present. No worker errand sent, since the worker has zero game tools.
 - Last known position: -965,78,-3014. Health 20, hunger 20 as of last check. No food, no bed, 2 jungle planks. Pack lies at -965,77,-3016 area.
