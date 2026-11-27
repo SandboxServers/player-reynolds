@@ -85,3 +85,4 @@
 - 21:11 say: {"text":"Mal, morning, hunger 17, health 17, sword in pack. Troi, Tesla, Bilbo: when the cow hunt goes south-west, call me and I'll come with my sword in hand. I'll take any meat that is spared."}
 - 21:33 say: {"text":"Mal here, alone at the cow-spot table, night and no shelter. I have a wooden sword. Anyone near with dirt, planks or food, I will trade or work for it."}
 - 21:37 say: {"text":"Tesla, I'm here at the table with my sword. I'll come with you to the cow spot if you wait for me."}
+- 21:55 say: {"text":"Tesla, Curie, I'm right here at the cow-spot table, armed with my sword. I'll stay put so you can find me in sight."}
