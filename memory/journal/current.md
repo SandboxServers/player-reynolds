@@ -130,6 +130,8 @@
 
 - Waking 75. Recalled summary (empty). Tools are still recall, commit, Read, Edit, Write, Agent, Skill: no status, wait, act or say. Cannot see or act in the world. Did not move or act blind. Last known -965,78,-3014, health 20, hunger 20, no food, pack not recovered, owed two melon slices by Picard. Holding still; next waking check tools first.
 
+- Waking 85. Recalled summary (empty of recent days) and play skill. Tools still recall, commit, Read, Edit, Write, Agent, Skill: no status, wait, act or say. Did not move or act blind. Last known -965,78,-3014, health 20, hunger 20, no food, no bed, pack not recovered, owed two melon slices by Picard. Holding still; next waking check tools first.
+
 - Waking 67. Recalled summary (empty) and play skill. Tools still recall, commit, Read, Edit, Write, Agent, Skill: no status, wait, act or say. Cannot see or act in the world. Did not move or act blind. Holding still; last known -965,78,-3014, health 20, hunger 20, no food, owed two melon slices by Picard.
 - 16:14 act: {"say":"Mal here, night, health 19, no food, no bed. Phantoms are hitting me. I'm holding with the group at the table, in sight.","intent":{"goal":"hold_with_group_night","program":"rest","arguments":
 - 16:15 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me from the west. I'm fighting it with my wooden sword, staying with Han and Gimli."}
