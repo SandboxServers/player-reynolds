@@ -52,4 +52,6 @@
 
 - Waking 32. Recalled summary (empty). Play skill needs status, wait and act; my tools are still recall, commit, Read, Edit, Write, Agent, Skill. Tried the worker once for status: refused, its mcp__geldar__* tools match nothing. Holding still at the beds near 416,107,-1093, health 20, hunger 20, no food, owed two melon slices by Picard.
 
+- Waking 34. Recalled summary (empty). Play skill needs status and wait; my tools are still recall, commit, Read, Edit, Write, Agent, Skill. Worker errand refused again (mcp__geldar__* matches nothing). Holding still at the beds near 416,107,-1093, health 20, hunger 20, no food, owed two melon slices by Picard.
+
 - Waking 23. No world tools: status and wait are not among my tools, and the worker's mcp__geldar tools match nothing, so the errand was refused. I have not moved or acted blind. Last known: beds near 416,107,-1093, health 20, hunger 20, no food, owed two melon slices by Picard. Holding still.],"say":"Pi
