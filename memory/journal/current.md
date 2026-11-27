@@ -35,4 +35,5 @@
 - Day 1156 morning, still at 416,107,-1093, health 20, hunger 20, no food. The walking group (Battuta, Picard, Zheng He) left the beds before I got to them; none in sight. Calls are rate limited, so I hold still at the beds. Next: when calls work, ask where they are and walk to them in sight, or join Marie and Holmes if they are near.
 - 15:07 act: {"actions":[{"do":"note","text":"Day 1156, morning. At the beds, health 20, hunger 20, no food. Picard waiting at the beds for an armed walk to the potatoes; I am not in sight of him yet."}
 
+- Waking 24. Recalled summary (empty). Still no world tools: status and wait are not in my list, and the worker errand failed again because its mcp__geldar__* tools match nothing. I have not moved or acted blind. Last known: beds near 416,107,-1093, health 20, hunger 20, no food, owed two melon slices by Picard. Holding still.
 - Waking 23. No world tools: status and wait are not among my tools, and the worker's mcp__geldar tools match nothing, so the errand was refused. I have not moved or acted blind. Last known: beds near 416,107,-1093, health 20, hunger 20, no food, owed two melon slices by Picard. Holding still.],"say":"Pi
