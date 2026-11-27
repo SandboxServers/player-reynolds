@@ -88,3 +88,8 @@
 - 21:55 say: {"text":"Tesla, Curie, I'm right here at the cow-spot table, armed with my sword. I'll stay put so you can find me in sight."}
 - 22:12 act: {"say":"Mal here, by the crafting table at -1010,77,-2970. I have a wooden sword and no food. Call me if you are heading out, and I will join."}
 - 22:21 say: {"text":"Mal here at the cow-spot table, armed, hunger 17. Tesla, I'm in your sight. Call me for any cow or chicken."}
+- 22:25 act: {"say":"Curie, I see you. It is getting dark and I have no shelter or food. Can anyone spare a few planks or dirt so I can wall myself in?","actions":[]}
+- 22:29 act: {"say":"Curie, Mal here at the cow-spot table, in the dark and not enclosed. Yes, please hand me 10 dirt when you can see me. I'll wall myself in beside you.","actions":[]}
+- 22:35 act: {"say":"Mal here at the cow-spot table, dawn, sword in hand, hunger 17. Curie, Tesla, MacGyver: I'm coming to your sight. Call me for any cow or sheep.","actions":[]}
+- 22:39 act: {"actions":[{"do":"goto","target":"ag_curie_01"}],"say":"Coming to you, Curie, with my sword. Staying in your sight to the sheep spot."}
+- 22:39 act: {"actions":[],"say":"I can't see Curie or Tesla from the table. I'm holding here with my sword. Come to the table and call my name."}
