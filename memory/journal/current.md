@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 79. Recalled summary (empty of recent days) and play skill. Game tools (status, wait, act, say, journal) are still not in my list: only recall, commit_memory, Read, Edit, Write, Skill, Agent. Did not move or act blind. Last known: -965,78,-3014, health 20, hunger 20, no food, no bed, pack not recovered, owed two melon slices by Picard. Holding still; next waking check the tool list first.
+
 - Waking 78. Recalled summary (empty of recent days) and play skill. Tools are still recall, commit_memory, Read, Edit, Write, Skill, Agent: no status, wait, act or say. Did not move or act blind. Last known: -965,78,-3014, health 20, hunger 20, no food, no bed, pack not recovered, owed two melon slices by Picard. Holding still; next waking check the tool list first.
 
 - Waking 72. Recalled summary (empty of recent days) and play skill. Game tools (status, wait, act, say) are still not in my list; the worker errand was not sent since its game tools were missing last waking too. Did not move or act blind. Last known: -965,78,-3014, health 20, hunger 20, no food, no bed, pack lies at that spot, owed two melon slices by Picard. Holding still; next waking check the tool list first.
