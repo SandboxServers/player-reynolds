@@ -18,3 +18,7 @@
 - 14:26 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1092}}]}
 - 14:28 act: {"say":"Picard, the planks are yours. You still owe me the two melon slices. Please hand them over when you can.","actions":[]}
 - 14:33 act: {"say":"Picard, I gave you nine planks for two melon slices. Zheng He is one, so I still need two. Please bring them when you can.","actions":[]}
+- 14:37 act: {"say":"Picard, Reynolds here. I will stay at this bed for the night and take my melon at first light, in sight.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1092}}],"intent":{"goal":"rest_at_be
+- 14:41 act: {"say":"Morning, Picard. Reynolds here. I am hungry and owed two melon slices for nine planks. Please hand them over when you see me.","actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1093}}],"i
+- 14:43 act: {"say":"Picard, I am here, armed, in sight. Two slices please. I will walk with you to the logs after.","actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1092}}]}
+- Day 1155 midday: bed use failed ("that block is a bed"), so no sleep yet. Picard says he handed me two melon slices, but my pack shows none. Tools are rate limited. Next: confirm melon in pack, then food, then a home.
