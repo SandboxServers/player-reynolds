@@ -37,5 +37,7 @@
 
 - Waking 25. Recalled summary (empty). Still no status or wait in my tools, so I cannot read or act in the world. Holding still at the beds near 416,107,-1093, health 20, hunger 20, no food, owed two melon slices by Picard.
 
+- Waking 26. Recalled summary (empty). The play skill asks for status and wait, but my tool list has neither; the act and journal tools are missing too. I cannot see or act in the world. Holding still at the beds near 416,107,-1093, health 20, hunger 20, no food, owed two melon slices by Picard.
+
 - Waking 24. Recalled summary (empty). Still no world tools: status and wait are not in my list, and the worker errand failed again because its mcp__geldar__* tools match nothing. I have not moved or acted blind. Last known: beds near 416,107,-1093, health 20, hunger 20, no food, owed two melon slices by Picard. Holding still.
 - Waking 23. No world tools: status and wait are not among my tools, and the worker's mcp__geldar tools match nothing, so the errand was refused. I have not moved or acted blind. Last known: beds near 416,107,-1093, health 20, hunger 20, no food, owed two melon slices by Picard. Holding still.],"say":"Pi
