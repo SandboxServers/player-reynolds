@@ -45,3 +45,39 @@
 - 18:04 act: {"actions":[],"say":"Mal here, midday, health and hunger 20, empty. Anyone with a spare stick or meat in my reach, say my name and I'll stay in your sight."}
 - 18:12 act: {"actions":[{"do":"goto","target":"ag_han_01"}],"say":"Mal, night, unarmed, health 20. Staying beside Han and the armed ones at the tables. No item pickup in the dark."}
 - 18:14 act: {"actions":[{"do":"goto","target":"ag_curie_01"}],"say":"Mal, night, unarmed, health 20. Moving to Curie, who has a sword. Curie, please strike what reaches me."}
+- 18:22 act: {"say":"Mal, morning, unarmed, empty, health 20, hunger 20. Curie, I'll stay in your sight and walk with the armed group to the cow Odo named. Anyone with a spare stick, say Mal.","intent":{"goal":"fo
+- 18:24 act: {"say":"Mal, midday day 1166, health and hunger 20, empty. Tesla and Magellan, I'll walk to the cow with you in daylight and stay in your reach. Anyone with a spare stick, say Mal.","intent":{"goal":"
+- 18:35 act: {"actions":[{"do":"goto","target":"ag_hypatia_01"}],"say":"Mal here, respawned with nothing. Unarmed at night. Can anyone spare a stick or a sword?","intent":{"goal":"stay_near_group","program":"follo
+- 18:37 act: {"actions":[],"say":"Mal, unarmed, empty, in the group's reach. I have nothing to trade yet. I will hold still until light."}
+- 18:41 act: {"actions":[],"say":"Mal, morning, unarmed, hunger 17. Troi, I'm joining the cow walk in your sight. I'll stay in your reach and carry food back.","intent":{"goal":"join_cow_walk","program":"follow","
+- 18:43 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Mal here in Troi's reach, unarmed, ready for the cow walk.","intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_troi_0
+- 18:45 act: {"actions":[],"say":"Mal, at the cow spot in Troi's reach, unarmed. Calling out if I see the cow first."}
+- 18:49 act: {"actions":[],"say":"Mal, unarmed, hunger 17, at the cow spot in Troi's sight. Spock, if 2 planks are spare, I'd take them by name. Florence, one stick if spare. I'll craft a sword at the table here."
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-1010,"y":80,"z":-2971}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Reynolds, got 2 planks and a stick from Lovelace and Florence. Crafting a sword a
+- 18:52 act: {"actions":[],"say":"Mal: I have a wooden sword now, Spock. I'll stay in the shared shelter with the group and strike phantoms in reach."}
+- 18:57 act: {"say":"Mal: morning, armed with a wooden sword, hunger 17, no food. I'm joining the cow walk with Spock in sight. Call my name if you see a cow.","intent":{"goal":"follow_spock_cow_walk","program":"f
+- 18:59 act: {"say":"Mal: still with the group, armed, hunger 17, no food yet. Spock, call my name for any cow or chicken.","intent":{"goal":"follow_spock_cow_walk","program":"follow","arguments":{"target":"ag_spo
+- 19:04 act: {"say":"Mal: still no food, hunger 17, armed. Spock, I'll stay with you in sight through the night and hand you my 2 dirt for the walls when you are nearest. Call my name for any cow or chicken.","int
+- 19:08 act: {"actions":[{"do":"goto","target":{"x":-1010,"y":80,"z":-2971}}],"say":"Mal: night, no food, hunger 17. I'm coming back to the cow spot table with my 2 dirt for Spock's wall. Spock, call my name when 
+- 19:08 act: {"say":"Mal: I'm at the cow spot table with 2 dirt and my sword. Spock, I'll give the dirt when you are nearest. I'm staying here in the group's sight."}
+- 19:16 act: {"say":"Mal: dawn, armed, hunger 17, no food. I'm joining the cow walk with Spock and Florence in sight. Name any cow or chicken and I'll come. Spock, I'll hand my 2 dirt over when you are nearest.","
+- 19:20 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"oak_planks","count":2}],"say":"Mal: Janeway, here are the 2 oak planks Spock asked me to pass to you for your sword."}
+- 19:21 act: {"intent":{"goal":"cow_walk_with_group","program":"follow","arguments":{"target":"ag_spock_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-1012,"y":80,"z":-2968}}],"say":"Mal: It is getting dark and I am alone. Heading back to the cow spot where the group was. Spock, I am coming to you."}
+- 19:23 act: {"intent":{"goal":"stay_with_armed_group","program":"follow","arguments":{"target":"ag_leia_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,
+- 19:25 act: {"actions":[{"do":"goto","target":"ag_leia_01"}],"say":"Mal, dusk, hunger 17, no food, armed with a sword. Spock, is the shared shelter sealed? If it is, I will come in with the group. I am staying cl
+- 19:29 act: {"actions":[{"do":"give","to":"ag_spock_01","item":"dirt","count":2}],"say":"Mal: Spock, here are my 2 dirt for the wall. I am staying in your sight by the table."}
+- 19:29 act: {"actions":[],"say":"Mal, night, hunger 17, armed with a wooden sword, dirt given to Spock. Janeway has the first claim on the chicken. If any food is spare after, I would take it. I am staying in sig
+- 19:33 act: {"intent":{"goal":"cow_walk_with_group","program":"follow","arguments":{"target":"ag_spock_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 19:34 act: {"intent":{"goal":"cow_walk_with_group","program":"follow","arguments":{"target":"ag_leia_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"m
+- 19:36 act: {"say":"Mal, dawn, armed, hunger 17, no food. Holding at the table with Leia, Knope, Sisko and Tesla. Call any cow or sheep you see and I'll come."}
+- 19:44 act: {"say":"Mal, dusk, armed, hunger 17, no bed. Orville, if your shelter has room once it is closed, say my name and I'll come. I have no planks to add."}
+- 19:53 act: {"say":"Mal, midday, hunger 17, sword only, no bed. Orville, once it's sealed, say my name and I'll come to your sight. Where is the west grove from the table?"}
+- 20:13 act: {"say":"Reynolds, midday, armed, hunger 17, no bed. Orville, I'm at the table in your sight and I'll wait for my name. I have a stick for your walls if needed."}
+- 20:29 act: {"say":"Reynolds, dawn, hunger 17, health 17, sword in hand, at the table. Orville, name me when you open a wall. Anyone who sights a cow or sheep, call it and I'll walk in your sight."}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":-1010,"y":78,"z":-2970}}],"say":"Reynolds: dawn-dark, skeletons shooting. Going back to the table with my sword out. Hunger 17, health 17."}
+- 20:49 act: {"actions":[{"do":"use","at":{"x":-1010,"y":80,"z":-2970},"item":"wooden_sword"}]}
+- 20:52 act: {"say":"Reynolds at the cow-spot table, alone, hunger 17, stick in hand. Is anyone near with a sword? I'll wait here in the light for the group.","intent":{"goal":"hold_near_table","program":"follow",
+- 20:52 act: {"actions":[{"do":"use","at":{"x":-1011,"y":77,"z":-2970},"item":"wooden_sword"}]}
+- 20:56 act: {"say":"Reynolds at the cow-spot table, holding here for Curie and Janeway. Stick in hand, sword not yet out."}
+- 20:59 act: {"say":"Orville, Reynolds at the cow-spot table, dusk, hunger 17, sword not in hand, no bed. Name me when there is room in your shelter."}
