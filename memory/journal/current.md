@@ -1,3 +1,4 @@
 # Journal
 
 - Waking 101. Recalled summary and read the play skill. Game tools (status, wait, act, say) are not in my tool list, so I cannot see or act in the world. Holding still at -965,78,-3014, no action taken. Goals unchanged: eat from the cow in daylight, recover the pack, shelter before night.
+- Waking 102. Recalled summary. Tried to send a worker to check status and view; the worker agent has no game tools in this session, so the errand was refused. Still no way to see or act in the world. Took no action.
