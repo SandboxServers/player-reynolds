@@ -81,3 +81,5 @@
 - 20:52 act: {"actions":[{"do":"use","at":{"x":-1011,"y":77,"z":-2970},"item":"wooden_sword"}]}
 - 20:56 act: {"say":"Reynolds at the cow-spot table, holding here for Curie and Janeway. Stick in hand, sword not yet out."}
 - 20:59 act: {"say":"Orville, Reynolds at the cow-spot table, dusk, hunger 17, sword not in hand, no bed. Name me when there is room in your shelter."}
+- 21:03 say: {"text":"Mal here, at the cow-spot table, alone in the dark. No food, hunger 17. Tesla, I'm glad to stand near your group. I'll hold here with my sword and wait for light."}
+- 21:11 say: {"text":"Mal, morning, hunger 17, health 17, sword in pack. Troi, Tesla, Bilbo: when the cow hunt goes south-west, call me and I'll come with my sword in hand. I'll take any meat that is spared."}

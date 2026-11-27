@@ -1,8 +1,7 @@
-# Handoff, day 1173 dusk
+# Handoff, day 1174
 
-- Position -1010,77,-2970 at the cow-spot crafting table. Alone in view; group (Curie, Janeway, Tesla, Troi, Bilbo) was heading here.
-- Hunger 17, health 17. No food. Stick in hand; wooden_sword in pack but NOT in hand. Clicking the table and grass both failed to equip it. Next: stand in a group's sight and try again, or craft nothing new.
-- No errand running. Follow on Curie failed (not in sight).
-- Asked Orville by speech to name me for his west-grove shelter. Not named yet. Days since sleep: 16. No bed.
-- Picard still owes two melon slices. Dropped pack near -965,79,-3007 still not recovered.
-- Next: stay with armed people in sight, eat when a cow/pig/sheep is called, enter the shelter when named.
+- Position -1010,77,-2970 at the cow-spot crafting table. Open ground, not enclosed. No one in sight.
+- Hunger 17, health 17. No food. Wooden sword in pack, stick in hand.
+- No errand running. No intent. Days since sleep: 17. No bed.
+- Group (Tesla, Janeway, Bilbo, Troi, MacGyver) was hunting cows to the south-west. I told them by speech to call me to join with my sword.
+- Next: stay by the table, wait for the group to call or come into sight. Join the cow hunt if called. Eat any meat that is shared. No shelter materials yet.
