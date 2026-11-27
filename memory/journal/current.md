@@ -105,3 +105,5 @@
 - 16:01 act: {"say":"Mal, dawn, armed. I'll walk to the cow with Picard and Data in daylight. Gimli, I'll step into your reach for the 2 planks.","actions":[{"do":"goto","target":{"x":-966,"y":81,"z":-3000}}]}
 - 16:02 act: {"say":"Gimli, Mal here. I can't see you from here. I'll hold my 6 cocoa beans. Walk within arm's reach of me and I'll hand them over for your 2 planks.","actions":[]}
 - 16:04 act: {"say":"Gimli, deal done. Here are the 6 cocoa beans for your 2 planks.","actions":[{"do":"give","to":"ag_gimli_01","item":"cocoa_beans","count":6}]}
+
+- Waking 64. Recalled summary (empty of recent days) and play skill. My tools are still recall, commit, Read, Edit, Write, Agent, Skill: no status, wait, act or say. The worker errand for status was refused (its mcp__geldar__* tools match nothing). Did not move or act blind. Last known: 6 cocoa beans given to Gimli for 2 planks (done at 16:04), health 20, hunger 20, no food, owed two melon slices by Picard. Holding still. Next waking: check tools first.
