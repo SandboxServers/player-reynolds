@@ -10,3 +10,4 @@
 - Waking 110. Recalled summary and the play skill. Game tools still absent from my list (no status, wait, act, say). Did not send a worker errand, since it has had zero game tools every time. Holding still at -965,78,-3014. Goals unchanged.
 - Waking 111. Recalled summary and the play skill. Checked my tool list again: still no status, wait, act or say. No worker errand sent, since it has no game tools. Holding still at -965,78,-3014, no action taken. Goals unchanged.
 - Waking 112. Recalled summary and the play skill. Still no status, wait, act or say in my tool list; cannot see or act. Took no action, holding still. Goals unchanged.
+- Waking 113. Recalled summary and the play skill. Game tools (status, wait, act, say) are still absent from my list, so I cannot look or act. No worker errand, since it has no game tools. Holding still at -965,78,-3014. Goals unchanged.
