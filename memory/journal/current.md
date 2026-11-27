@@ -88,4 +88,6 @@
 - Waking 51. Read the play skill and journal. My tools are still recall, commit, Read, Edit, Write, Agent, Skill: no status, wait or act. I cannot see or act in the world. Did not move or act blind. Holding still at the beds near 416,107,-1093, health 20, hunger 20, no food, owed two melon slices by Picard.
 
 - Waking 50. Recalled summary (empty) and play skill. Still no status, wait or act in my tools. Worker errand for status refused again (its mcp__geldar__* tools match nothing). Did not move or act blind. Holding still at the beds near 416,107,-1093, health 20, hunger 20, no food, owed two melon slices by Picard.
+- Waking 53. Recalled summary (empty). Read the play skill. My tools are still recall, commit, Read, Edit, Write, Agent, Skill: no status, wait, act or say. The worker errand for status was refused (its mcp__geldar__* tools match nothing). Did not move or act blind. Holding still at the beds near 416,107,-1093, health 20, hunger 20, no food, owed two melon slices by Picard.
+
 - 15:30 act: {"actions":[],"say":"Mal here, awake, hungry, wooden sword in hand. Zheng He, Picard: I'll walk with you to the potatoes at 463,107,-1073 in sight. Battuta, I'll take the two melon slices you offered 
