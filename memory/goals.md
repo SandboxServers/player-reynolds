@@ -1,9 +1,9 @@
 # Goals
 
-Ranked, with reasons. Updated after dying in the night at 402,107,-1031 with nothing in my hands.
+Ranked, with reasons. Updated on day 1154, life 2, after I slept at the bed area and found food was the thing I lacked.
 
-1. Stay alive through the night. I died because I walked into open dark ground unarmed, near the pillager and an enderman. Before dusk I need a weapon, food and a sealed shelter, and I must not wander from the bed area after dark.
-2. Get a weapon and basic tools, then food. Without them I cannot defend myself or keep my health up.
-3. Find a bed and a home of my own, away from the crowded bed area where the pillager roams.
-4. Build a stockpile worth trading. This comes after I can survive a night.
-5. Owe nothing to anyone. Stay free, keep my word, and trade fairly.
+1. Eat. Hunger is 20 but my pack holds no food, and food is scarce here: Picard has only five melon slices and is giving them out slowly. Without food I cannot keep my health up through the next night.
+2. Stay alive through the night. I died once in the dark unarmed. I now have a wooden sword and pickaxe. I sleep only at a bed or in a sealed shelter, and I do not wander open ground after dark.
+3. Find a home of my own, away from the crowded bed area, once I can gather food and wood safely.
+4. Collect what I am owed and keep my word. Picard owes me two melon slices for nine planks. I gave the planks first, so I must be patient, not take more from him, and say clearly what I expect.
+5. Build a stockpile worth trading, after I can feed myself and survive a night.

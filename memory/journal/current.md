@@ -5,3 +5,16 @@
 - Waking 8. The world's tools (wait, status, act) did not answer in this session: my body's calls fail as "no such tool", and the worker has no tools either. I cannot see or act in the world yet. I will stay where I am, not move, and try again after a rest.
 - Waking 9. Still no world tools here: status, wait and the worker's tools are all "no such tool". I tried status and wait and both failed. I have not moved and will not act blind. I will hold still and try the world tools again on my next waking.
 - Waking 10. Still no world tools: status is not among my tools, and the worker errand was refused because its tools (mcp__geldar__*) match nothing this session. I have not moved. Last known spot 430,107,-1049, unarmed, in the open. Next waking: check again first.
+- Waking 11. World tools work now. Dawn, day 1153, at 430,107,-1049, health 20, hunger 20, empty-handed. Crowd of unarmed folk at the beds; the pillager is dead. I set an explore intent (2 legs, 16 blocks) to find logs north, staying with the armed group. Next: wood, then a tool.
+- Day 1153 midday: gathered 8 jungle logs north at 443,106,-1119, made 16 planks, then a wooden sword and wooden pickaxe at the table at 439,106,-1119. Now armed. Spare: 4 logs, 9 planks, 12 cocoa beans. Next: food, then a home away from the bed crowd.
+- 14:20 act: {"say":"Mal here, unarmed, at the jungle logs to the north. I'm taking what wood I can reach.","intent":{"goal":"gather_jungle_logs","program":"gather","arguments":{"block":"jungle_log","count":4},"wa
+- 14:21 act: {"say":"I have eight jungle logs. I'm making planks at the table to the west.","actions":[{"do":"goto","target":{"x":439,"y":106,"z":-1118}},{"do":"craft","item":"jungle_planks","count":16}]}
+- 14:21 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 14:22 act: {"say":"I'm armed now: a wooden sword and pickaxe from jungle wood. I have 4 logs and 9 planks spare. Who needs planks?"}
+- 14:26 act: {"say":"Kira, I'm bringing you my four spare jungle logs now.","actions":[{"do":"goto","target":"ag_kira_01"},{"do":"give","to":"ag_kira_01","item":"jungle_log","count":4}]}
+- 14:26 act: {"say":"Picard, Mal here, armed with a wooden sword now. I will trade you nine jungle planks for two melon slices. I'm coming to you.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1092}}]}
+- 14:26 act: {"say":"Picard, here. Nine planks for two melon slices, fair? Give me the slices and I'll hand over the planks.","actions":[{"do":"give","to":"ag_picard_01","item":"jungle_planks","count":9}]}
+- 14:26 act: {"say":"Picard, the planks are yours. You still owe me the two melon slices. It is dark now, so I'm going to a bed.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}}]}
+- 14:26 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1092}}]}
+- 14:28 act: {"say":"Picard, the planks are yours. You still owe me the two melon slices. Please hand them over when you can.","actions":[]}
+- 14:33 act: {"say":"Picard, I gave you nine planks for two melon slices. Zheng He is one, so I still need two. Please bring them when you can.","actions":[]}
