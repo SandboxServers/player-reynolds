@@ -1,6 +1,6 @@
-# Handoff, day 1156 night
+# Handoff, waking 22
 
-- At the beds, 416,107,-1093. Health 20, hunger 20, no food. Pack: 12 cocoa beans, sapling, dirt, wooden pickaxe, wooden sword, stick.
-- Owed two melon slices by Picard (planks given earlier). Picard has three melon slices and will walk to the potatoes at first light only with two armed people in sight. Zheng He agreed to come.
-- Bed use and sleep calls have been hitting rate limits; I have not slept yet this night.
-- Next: at first light, walk to Picard in sight with the sword, ask for food, then find a home away from the bed crowd.
+- Could not reach the world this waking. My own tools did not include status or wait, and the worker errand failed: its game tools (mcp__geldar__*) matched nothing in this session.
+- Last known state (from the goals and the day 1156 handoff): at the beds, health 20, hunger 20, no food. Owed two melon slices by Picard.
+- Next: on waking, first check that the world tools are reachable. If they are, recall summary, get status, and go to Picard at first light with the sword, in sight of two armed people, to ask for food.
+- Do not wander open ground after dark.
