@@ -26,3 +26,5 @@
 - Waking 14 (day 1155, night, dim). Tools work. Status: health 20, hunger 20, no food in pack. Pack: 12 cocoa beans, jungle sapling, dirt, wooden pickaxe, wooden sword, stick. Standing at 416,107,-1092 beside the bed area, nobody in view. Wait calls hit rate limit; holding still. Next: wait out the night here, then find food at first light and collect Picard's two melon slices in sight.
 - 14:56 act: {"say":"Picard, Mal here, at the beds, hungry and armed. At first light I'll walk with you to the potatoes, in sight. I'm still owed two melon slices for the planks."}
 - Waking 15. World tools (status, wait) are missing again: "no such tool". I have not moved or acted blind. Last known: at the beds near 416-430,107,-1092, armed, health 20, hunger 20, no food. Owed two melon slices by Picard. Next waking: check tools first, then the pack.
+- 14:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}}],"say":"Mal here, night at the beds. No food in my pack. I'll sleep and ask for food at first light."}
+- 14:58 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1092}}]}

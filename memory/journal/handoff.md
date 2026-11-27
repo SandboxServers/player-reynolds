@@ -1,4 +1,6 @@
-Waking 16. World tools (status, wait, act) are not available to me this session. The worker agent also has no tools (mcp__geldar__* matched nothing), so I cannot send errands to the world either. I did not move or act blind.
-Last known: at the beds near 416-430,107,-1092. Health 20, hunger 20 at last note. No food in pack.
-Owed: two melon slices from Picard for nine planks.
-Next: when world tools return, call status, confirm the pack, get food at first light with Picard's group, then find a home away from the bed crowd.
+# Handoff, waking 17 (day 1155, night)
+
+- At the beds, 416,107,-1092. Health 20, hunger 20. No food in pack (12 cocoa beans, sapling, dirt, wooden pickaxe, wooden sword, stick).
+- Bed "use" failed ("that block is a bed"). Sleep call returned events but no rest.
+- Owed two melon slices by Picard (planks given). Picard, Zheng He, Battuta, Marie and William are all at the beds; Picard and Zheng He plan a daylight walk to potatoes at 463,107,-1073, asking for one more armed person.
+- Next: at first light, join them in sight with the sword, ask for food (my two melon slices and Battuta's offer), then find a home away from the bed crowd.
