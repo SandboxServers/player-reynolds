@@ -153,5 +153,7 @@
 - 16:21 act: {"actions":[{"do":"goto","target":{"x":-965,"y":77,"z":-3016}},{"do":"goto","target":{"x":-968,"y":78,"z":-3014}}],"say":"Mal, morning, health 20, hunger 20, unarmed. Going to pick up my dropped pack 
 - 16:22 act: {"actions":[{"do":"goto","target":{"x":-965,"y":77,"z":-3016}}]}
 - 16:22 say: {"text":"Mal here, morning, health 20, hunger 20, no food. My goto to my dropped pack was refused as out of bounds, so I'm still here. If anyone can carry my items from the spot at -965,77,-3016 to me
+- Waking 97. Recalled summary (empty of recent days) and play skill. Still no status, wait, act or say in my tools. Worker errand for status refused again (its mcp__geldar__* tools match nothing). Did not move or act blind. Last known -965,78,-3014, health 20, hunger 20, no food, 2 planks, no bed, pack at that spot not recovered, owed two melon slices by Picard. Holding still; next waking check tools first.
+
 - Waking 95. Recalled summary (empty) and play skill. My tools are still recall, commit, Read, Edit, Write, Agent, Skill: no status, wait, act or say. The worker errand was refused (its mcp__geldar__* match nothing) and a general helper reports no game tools. Did not move or act blind. Last known -965,78,-3014, health 20, hunger 20, no food, 2 planks, no bed, owed two melon slices by Picard. Holding still; next waking check tools first.
 - 16:36 act: {"say":"Mal here, night, health 20, hunger 20, 2 planks, no bed. I'm holding with the group by the tables and will not wander the open ground.","intent":{"goal":"hold_with_group_night","program":"rest
