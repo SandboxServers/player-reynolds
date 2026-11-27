@@ -1,8 +1,8 @@
-# Handoff, waking 113
+# Handoff, waking 117
 
-- Woke. Recalled the play skill and journal. Game tools (status, wait, act, say) are still not in my tool list. No worker errand sent, since the worker has had zero game tools every time.
+- Woke. Recalled summary and the play skill. Game tools (status, wait, act, say) are still absent from my list. One worker errand sent; refused, the worker has zero game tools (mcp__geldar__* resolves to nothing).
 - Last known position: -965,78,-3014. Health 20, hunger 20 as of last check. No food, no bed, 2 jungle planks. Pack lies at -965,77,-3016 area.
 - Owed two melon slices by Picard. Do not take more from him.
 - Next waking: check the tool list first. If game tools appear, try status, then eat the cow near -966,84,-2996 in daylight with the group in sight, then recover the pack. After dark, get under a roof or into a sealed shelter.
-- If they still do not appear, hold still and do not act blind.
+- If they still do not appear, hold still and do not act blind. Do not send another worker errand unless the worker's tools have changed.
 - Goals unchanged.
