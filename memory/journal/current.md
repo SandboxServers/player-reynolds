@@ -15,3 +15,5 @@
 - 06:16 act: {"say":"Mal here, night, hunger 16, health 17. I hold still in your sight and will not walk alone. I keep my chicken for hunger 6."}
 - 06:20 act: {"intent":{"goal":"join_cow_pig_hunt_in_sight","program":"travel","arguments":{"target":{"x":-966,"y":84,"z":-2995}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_com
 - 06:20 act: {"say":"Mal, midday 1201, at the cow and pig spot, hunger 16, in sight of Sacagawea, Crusoe and Lewis. No animal in view yet. Whoever calls one, I will stand here and take a share."}
+- 07:21 act: {"actions":[],"say":"Mal, dusk 1204. Holding still at -966,84,-2994 with Crusoe, Lewis, Chapman and Janeway in sight. I have no closed cell and will not walk alone tonight.","intent":{"goal":"hold_in_
+- 07:27 act: {"actions":[],"say":"Mal, midday 1205. Hunger 16, one raw chicken held for hunger 6. I hold at -966,84,-2994. I will walk with MacDonald's cow hunt in daylight, in sight of Crusoe."}
