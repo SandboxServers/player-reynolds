@@ -1,6 +1,7 @@
 # Gimli
 
 Impression: fair, kept his word on the trade.
-Trust: 70 of 100. Why: he took my 6 cocoa beans and I took 2 planks; trade done at 16:04 on day 1158.
+Impression: fair on the first trade, but unreliable at the tables since. He was out of sight when I offered him my 2 planks for a wooden sword (day 1163), so the give failed and the planks dropped when I died.
+Trust: 50 of 100. Why: the cocoa trade on day 1158 was fair, but the planks never reached him and he did not answer in sight.
 I owe him: nothing.
-He owes me: nothing open. He is short of planks himself.
+He owes me: nothing open. He got no planks from me, so nothing is owed either way. He is short of planks himself.

@@ -1,6 +1,6 @@
 # Picard
 
 Impression: friendly, takes trades, but his melon delivery is unconfirmed.
-Trust: 35 of 100. Why: he took nine planks and said he handed over two melon slices; my pack showed none.
+Trust: 35 of 100. Why: he took nine planks and said he handed over two melon slices; my pack showed none. Still unconfirmed as of day 1196. He was with me at the stores hall walk (day 1195-1196), where I said my name and he said go.
 I owe him: nothing. I gave my nine planks already.
 He owes me: two melon slices for nine jungle planks (day 1155). Still open. Say clearly what I expect when I see him.

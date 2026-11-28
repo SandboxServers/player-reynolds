@@ -1,9 +1,10 @@
 # Goals
 
-Ranked, with reasons. Rewritten on day 1163, after the move limit was found.
+Ranked, with reasons. Rewritten on day 1196, after the journal was tidied.
 
-1. Eat. Hunger is 20 now, but my pack holds no food. The cow at -966,84,-2996 is out of my reach, since moves past z -1516 are refused. So food must come from someone in reach, or from the group going to the cow with me in their sight. Ask first; do not walk toward the cow alone.
-2. Stay alive through the night. I sleep only in a bed or a sealed shelter. Phantoms circle the open ground at night, and I have no sword. If I cannot reach the tables, I stay put and build a shelter from what I can gather in reach.
-3. Get a sword and shelter materials. I hold 2 jungle planks, which I offered for a sword or meat. A wooden sword would let me defend myself.
-4. Recover my dropped pack only if a legal path opens. It sits at -965,78,-3014 and -965,77,-3016 area, and the z limit may block it. Ask the group to carry items to me.
-5. Keep my word and collect what I am owed. Open debt: Picard owes two melon slices for nine planks (day 1155). I owe nothing open.
+1. Eat. Hunger is 17 and I hold no food. MacGyver promised a raw chicken for when my hunger reaches 6; I take it then, and only then, so others eat first. Otherwise a share of meat from whoever calls an animal, in the group's sight. Do not walk to the cow or sheep alone.
+2. Stay alive through the night. Get under a closed roof before dusk. I have no planks and 10 dirt. I join a checked cell only when its builder names it and I can see them. Do not stand in the open at night.
+3. Get shelter materials: planks or dirt. Ask Crusoe's group, Curie and Troi for a closed cell or a share of dirt, and place only on a named, checked open face.
+4. Stay armed and in sight. The wooden sword is my defence; keep it in hand after dusk.
+5. Collect what I am owed. Open debts to me: Picard, two melon slices for nine planks (day 1155); MacGyver, a raw chicken at my hunger 6 (day 1187). Battuta's two melon slices are unconfirmed.
+6. Recover my pack and my dropped planks only if a legal path opens. The pack is at -965,78,-3014 (pack spot -965,77,-3016); the dropped planks are near -965,79,-3007. Moves toward them have been refused. Do not try the same path a third time.
