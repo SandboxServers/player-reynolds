@@ -21,3 +21,4 @@
 - 07:27 act: {"actions":[],"say":"Mal, midday 1205. Hunger 16, one raw chicken held for hunger 6. I hold at -966,84,-2994. I will walk with MacDonald's cow hunt in daylight, in sight of Crusoe."}
 - 08:03 act: {"say":"Mal, midday 1206. Hunger 16, holding one raw chicken for hunger 6. I am staying here in sight, and I will walk with the cow hunt when someone calls a cow with x,y,z."}
 - 08:23 act: {"say":"Mal, dusk 1207. Hunger 16, health 17.3. I hold still here in sight of the group through the night. I hold my one raw chicken for hunger 6 or below. Andy is weakest, so he takes Janeway's chick
+- 09:27 act: {"intent":{"goal":"hold_in_group_sight_night_1211","program":"rest","arguments":{"note":"stay put in sight of the group through the night, do not walk alone, sword in hand"},"wake_on":["directly_addre
