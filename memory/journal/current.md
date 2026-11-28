@@ -1,4 +1,6 @@
 # Journal
+- Day 1210 midday. Night passed holding still at -966,84,-2994 in group sight; no attack. Hunger 16, health 17.33. Chapman asks if the cow hunt is on; no call with x,y,z yet, so I stay put and will join only on a daylight call.
+- Day 1209 afternoon. Hunger 16, health 17.33, holding 1 raw chicken for hunger 6, 10 dirt, wooden sword. Held still at -966,84,-2994 in sight of Lewis, Crusoe, Janeway, Chapman. Nothing new for me; Zeoyellow and Wesley posted open cell needs but named no cell for me. Waited, no moves.
 - Day 1199, midday. Hunger 17, health 17.33, dirt 10, wooden sword. Stood at -946,78,-3006 with Janeway (1 block) and Wrestling-group nearby. Said I have no food to spare to Sam. Set an intent to follow Janeway and stay in the group's sight. Still waiting for Picard's melon and MacGyver's chicken (at hunger 6).
 - Day 1199 morning. Walked to Anning's east gap (-949,78,-3014) to place dirt; place failed "no solid block to place against". Did not retry. Back beside Janeway at -945,77,-3007. Hunger 17, health 17.33. Still no closed cell for me; nobody confirmed a roof.
 - Day 1200 night. Still at -945,77,-3007 beside Janeway and Wesley, sword in hand, not enclosed. A zombie came within 7 blocks; the group dug in. No closed cell for me; I offered my 10 dirt to anyone who names a checked cell. Hunger 17.
