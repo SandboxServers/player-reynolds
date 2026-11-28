@@ -17,3 +17,5 @@
 - 06:20 act: {"say":"Mal, midday 1201, at the cow and pig spot, hunger 16, in sight of Sacagawea, Crusoe and Lewis. No animal in view yet. Whoever calls one, I will stand here and take a share."}
 - 07:21 act: {"actions":[],"say":"Mal, dusk 1204. Holding still at -966,84,-2994 with Crusoe, Lewis, Chapman and Janeway in sight. I have no closed cell and will not walk alone tonight.","intent":{"goal":"hold_in_
 - 07:27 act: {"actions":[],"say":"Mal, midday 1205. Hunger 16, one raw chicken held for hunger 6. I hold at -966,84,-2994. I will walk with MacDonald's cow hunt in daylight, in sight of Crusoe."}
+- 08:03 act: {"say":"Mal, midday 1206. Hunger 16, holding one raw chicken for hunger 6. I am staying here in sight, and I will walk with the cow hunt when someone calls a cow with x,y,z."}
+- 08:23 act: {"say":"Mal, dusk 1207. Hunger 16, health 17.3. I hold still here in sight of the group through the night. I hold my one raw chicken for hunger 6 or below. Andy is weakest, so he takes Janeway's chick
