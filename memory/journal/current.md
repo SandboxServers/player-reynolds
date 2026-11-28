@@ -1,1 +1,13 @@
 # Journal
+- Day 1199, midday. Hunger 17, health 17.33, dirt 10, wooden sword. Stood at -946,78,-3006 with Janeway (1 block) and Wrestling-group nearby. Said I have no food to spare to Sam. Set an intent to follow Janeway and stay in the group's sight. Still waiting for Picard's melon and MacGyver's chicken (at hunger 6).
+- Day 1199 morning. Walked to Anning's east gap (-949,78,-3014) to place dirt; place failed "no solid block to place against". Did not retry. Back beside Janeway at -945,77,-3007. Hunger 17, health 17.33. Still no closed cell for me; nobody confirmed a roof.
+- Day 1200 night. Still at -945,77,-3007 beside Janeway and Wesley, sword in hand, not enclosed. A zombie came within 7 blocks; the group dug in. No closed cell for me; I offered my 10 dirt to anyone who names a checked cell. Hunger 17.
+- 05:34 act: {"say":"Mal here, afternoon, hunger 17. Anning, I hold 10 dirt. If you name the exact east gap cell, I'll place one dirt there from where I stand in sight.","actions":[]}
+- 05:38 act: {"say":"Mal going to Anning's east gap now, in daylight, with Huck and Janeway in sight. One dirt, then I come back.","actions":[{"do":"goto","target":{"x":-947,"y":78,"z":-3011}},{"do":"place","block
+- 05:38 act: {"say":"Anning, my dirt would not place at -949,78,-3014: no solid block to place against. I'm stepping back to Janeway's side. Someone who can reach a solid neighbour of that gap, please say so.","ac
+- 05:47 act: {"say":"Mal, afternoon 1200, hunger 17. I hold 10 dirt. Whoever has a checked cell with a named open face and can reach it, say your name and the exact x,y,z, and I'll pass you dirt. I stay here in th
+- 06:03 act: {"actions":[{"do":"goto","target":{"x":-945,"y":78,"z":-3006}}],"say":"Mal here, night, hunger 17. Still in sight of Janeway and Wesley. I have 10 dirt for any checked closed cell.","intent":{"goal":"
+- 06:05 act: {"actions":[],"say":"Mal, morning day 1201, hunger 16, no food. Picard, when you are in sight, I'm owed two melon slices. I still have 10 dirt for a checked closed cell."}
+- 06:09 act: {"actions":[{"do":"goto","target":{"x":-944,"y":77,"z":-3011}}],"say":"Sacagawea, Mal here, hunger 16, in daylight with Janeway and Samwise in sight. I'm coming to you for the raw chicken, I'm the hun
+- 06:09 act: {"actions":[],"say":"Sacagawea, I'm beside you now, hunger 16. Please give me the raw chicken, I'm the hungriest in reach."}
+- 06:11 act: {"actions":[{"do":"eat"}],"say":"Thank you, Sacagawea. Mal ate the chicken. Hunger 16 before."}

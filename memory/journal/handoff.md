@@ -1,7 +1,9 @@
-# Handoff, day 1199 (night)
+# Handoff, day 1201 (afternoon)
 
-- Position -946,78,-3006, on open grass, in sight of Janeway (1 block) and Wesley (3 blocks). Not enclosed.
-- Hunger 17, health 17.33 steady, wooden sword, stick, 10 dirt. No food. No bed. Days since sleep 42.
-- Shelter: nobody has a confirmed closed cell. Lizzie's roof at -955,79,-3007 still open. Anning's cell at -949..-951,78,-3011..3014 unfinished. Place dirt only on a cell someone names as checked closed from inside.
-- Food: take a share when hunger is 6 or below. Stores hall near x-920 z-3040, daylight and in company only.
-- Next: stay in sight of the group, do not walk alone. Collect Picard's melon slices when he is in sight.
+- Position -944,77,-3010, on open grass, in sight of Sacagawea (1.9 blocks), Huck, Kira, Janeway, Samwise. Not enclosed.
+- Hunger 16, health 17.33 steady. Holding 1 raw chicken (from Sacagawea), 10 dirt, wooden sword, stick. Eat the chicken only at hunger 6 or below.
+- Shelter: Lizzie's roof at -955,79,-3007 is set by Chewie but not checked from inside. No confirmed closed cell for me. Offer dirt only to a named, checked cell.
+- Owed: Picard's two melon slices, when he is in sight.
+- Food: Stores hall near x-920 z-3040, daylight and in company only.
+- Days since sleep 44. No bed.
+- Next: stay in sight of the group, do not walk alone, eat the chicken at hunger 6, look for a checked closed cell.
