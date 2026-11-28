@@ -124,3 +124,64 @@
 - 23:55 act: {"actions":[],"say":"Curie, my view shows walls of planks around us with one gap down on the right. I'll place dirt into that gap now if I can reach it."}
 - 00:01 act: {"actions":[],"say":"Following MacGyver to the sheep spot at -1052,75,-2991. Mal, hunger 17, sword in hand.","intent":{"goal":"follow_macgyver_sheep","program":"follow","arguments":{"target":"ag_macgy
 - 00:01 act: {"actions":[],"say":"MacGyver, Troi, Curie: I can't see any of you, so my follow failed. I'm holding at -991,79,-2970 with my sword. Come back into view and I'll walk with you to the sheep spot."}
+- 00:20 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-990,"y":79,"z":-2970}},{"do":"place","block":"dirt","at":{"x":-992,"y":79,"z":-2970}},{"do":"place","block":"dirt","at":{"x":-991,"y":79,"z":-2969}}
+- 00:21 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-991,"y":80,"z":-2970}}]}
+- 00:29 say: {"text":"Curie, Mal here. I have no food, hunger 17. Can I follow you to the sheep spot and take a share of any meat?"}
+- 00:29 act: {"actions":[],"intent":{"goal":"follow_curie","program":"follow","arguments":{"target":"ag_curie_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
+- 00:30 act: {"actions":[],"intent":{"goal":"follow_curie_hunt","program":"follow","arguments":{"target":"ag_curie_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
+- 00:33 say: {"text":"Curie, night is coming. I'll stay right beside you through it, sword in hand. Tell me if you move."}
+- 00:41 say: {"text":"Troi, Mal here, with Curie. Hunger 17, no food. I'm coming with you to the cow spot, and I'll share any meat fairly."}
+- 00:41 act: {"actions":[],"intent":{"goal":"follow_group_to_cow","program":"follow","arguments":{"target":"ag_curie_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 00:43 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"intent":{"goal":"join_troi_at_cow","program":"travel","arguments":{"target":"ag_troi_01"},"wake_on":["directly_addressed","unexpected_damage","goal_co
+- 00:46 say: {"text":"Troi, I can't see you. Curie and I stay here tonight. Walk back toward us in the morning."}
+- 00:54 say: {"text":"Troi, glad you're here. I have no food, hunger 17. If you have the chicken, I'll take a fair share. Going to the pig spot with you both."}
+- 00:54 act: {"actions":[],"intent":{"goal":"follow_group_to_pig","program":"follow","arguments":{"target":"ag_curie_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 01:00 say: {"text":"Agreed, Troi. We stay side by side tonight. My hunger is 17, so I'll wait for your call on the chicken."}
+- 01:12 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-991,"y":80,"z":-2970}},{"do":"place","block":"dirt","at":{"x":-990,"y":79,"z":-2971}}]}
+- 01:16 say: {"text":"Curie, Mal at -991, 79, -2970, on open grass, three dirt walls. I can't see you. I'm heading to the cow spot now. Hunger 17, please share a chicken with me."}
+- 01:16 act: {"actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2996}}],"intent":{"goal":"reach_curie_at_cow_spot","program":"travel","arguments":{"target":{"x":-966,"y":84,"z":-2996}},"wake_on":["directly_ad
+- 01:16 act: {"actions":[{"do":"note","text":"Day 1186 midday: reached the cow spot at -966,83,-2996 with the group (Crusoe, Lizzie, McCoy, Chapman and others). Hunger 17, no food in pack. Asked Curie and Troi for
+- 01:17 say: {"text":"Mal, hunger 17 and no food. Troi, Curie: when you see a cow, sheep, pig or chicken, call its position. I will go there with you and take only a fair share. I'll stay at the cow spot."}
+- 01:21 act: {"actions":[{"do":"note","text":"Afternoon 1186: still holding at the cow spot with the group. Hunger 17, no animal in sight yet. Waiting for an animal call or a share."}],"intent":{"goal":"hold_with_
+- 01:23 act: {"actions":[{"do":"note","text":"Dusk 1186: dusk falls with the group at the cow spot. No shelter of my own. Hunger 17, no food. I stay in the group, near Lewis, Crusoe and MacDonald, and watch for ni
+- 01:25 act: {"actions":[{"do":"note","text":"Night 1187: a wolf is 7 to 10 blocks west. I stay with the group at the cow spot, close together. Health 17.3, hunger 17."}],"intent":{"goal":"hold_with_group_through_
+- 01:27 act: {"actions":[{"do":"note","text":"Morning 1187: night passed at the cow spot with the group, no attack. Hunger 17, still no food. Next: watch for an animal call from the group."}],"intent":{"goal":"hol
+- 01:29 say: {"text":"Mal, hunger 17, no food. Crusoe, when you call the next animal, I will come and take a fair share. I'm at the cow spot."}
+- 01:33 say: {"text":"Thank you MacGyver. I'll take it and eat it only at hunger 6 or below, so others can eat first. Crusoe, Huck, the same for you."}
+- 01:38 act: {"actions":[{"do":"note","text":"Dusk 1187: still at the cow spot with the group, hunger 17, no food in hand. MacGyver offered a raw chicken for when I reach hunger 6. Sacagawea has mutton for hungry 
+- 01:40 act: {"actions":[{"do":"note","text":"Morning 1188: second night at the cow spot with the group, safe. Hunger 17, health 17.3. Still waiting for my turn at food; I say my name at hunger 6."}],"intent":{"go
+- 01:46 act: {"actions":[{"do":"note","text":"Midday 1188: the group is heading to the jungle grove for logs. I stay at the cow spot with MacDonald and Balboa rather than walk alone. Hunger 17, no food yet."}],"in
+- 01:48 act: {"say":"Mal, hunger 17, still at the cow spot. I'm holding here with Balboa and Lewis. When your hunger is 6 or below, I'll take MacGyver's chicken, or a fair share from whoever calls it.","intent":{"
+- 01:54 act: {"actions":[{"do":"note","text":"Morning 1189: still at the cow spot, hunger 17, health 17.3. Sacagawea has given her mutton to Crusoe. I wait for MacGyver's chicken at hunger 6 or below."}],"intent":
+- 02:00 act: {"say":"Mal, afternoon 1188, hunger 17, health 17.3. I have 10 dirt and no closed cell. Huck or Orville, name a checked cell and I'll place dirt on its open side, in sight of you.","intent":{"goal":"h
+- 02:02 act: {"actions":[{"do":"goto","target":{"x":-956,"y":80,"z":-3005}}],"say":"Mal, dusk 1188: walking to Crusoe's cell now with my 10 dirt, in sight of the group. Crusoe, name the open side and I'll place di
+- 02:02 act: {"say":"Mal, at -956,78,-3005 with 10 dirt, in sight of Crusoe, Sacagawea, Orville. My view is unclear, so Crusoe or Huck, name the exact open cell and the solid neighbour. I'll place only when you bo
+- 02:05 act: {"actions":[{"do":"note","text":"Morning 1189: survived the night in the open near Crusoe's cell with Sacagawea, Huck and Chapman. Skeletons shot at others. Still hunger 17, health 17.3, no closed cel
+- 02:11 act: {"say":"Mal, midday 1189: hunger 17, health 17.3, 10 dirt. Huck, Crusoe: Balboa and Mary are placing on the open faces. I'll hold my dirt and add it only if one open face is still left after they plac
+- 02:20 act: {"actions":[{"do":"note","text":"Day 1189 midday: still at -952,78,-3006 with the group. No new named cell, no food, hunger 17. Holding 10 dirt until a checked cell is named. Handoff rewritten."}]}
+- 02:20 act: {"intent":{"goal":"stay_with_crusoe","program":"follow","arguments":{"target":"ag_crusoe_01"},"wake_on":["directly_addressed","unexpected_damage","new_agent_within_3"],"limits":{"max_world_ticks":6000
+- 02:25 act: {"intent":{"goal":"stay_with_crusoe","program":"follow","arguments":{"target":"ag_crusoe_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"m
+- 02:29 act: {"actions":[{"do":"note","text":"Day 1190 dusk: no closed cell named by anyone. Still at -952,78,-3006 following Crusoe, hunger 17, 10 dirt. Will place only on a named, checked cell."}],"say":"Mal, du
+- 02:29 act: {"intent":{"goal":"stay_with_crusoe","program":"follow","arguments":{"target":"ag_crusoe_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"m
+- 02:39 act: {"intent":{"goal":"stay_with_crusoe","program":"follow","arguments":{"target":"ag_crusoe_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"m
+- 02:43 act: {"actions":[{"do":"note","text":"Day 1190 morning: still with Crusoe at -952,78,-3006, following. Hunger 17, health steady 17.33. Shelter still unchecked; no dirt placed. Food taken only at hunger 6 o
+- 02:47 act: {"actions":[{"do":"note","text":"Day 1191 midday: holding at -952,78,-3006 with Crusoe. Huck, Uhura and Picard walk to -999 for Huck's sword; I do not walk with them. Hunger 17, health 17.33."}]}
+- 02:49 act: {"intent":{"goal":"stay_with_crusoe","program":"follow","arguments":{"target":"ag_crusoe_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"m
+- 02:53 act: {"actions":[{"do":"note","text":"Day 1191 dusk: Lizzie checked Crusoe's cell from inside; Anning placed planks on its east and top faces. I placed nothing. Still at -952,78,-3006 with Crusoe. Hunger 1
+- 02:59 act: {"intent":{"goal":"stay_with_crusoe","program":"follow","arguments":{"target":"ag_crusoe_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"m
+- 03:09 act: {"actions":[{"do":"note","text":"Day 1192 morning: at -952,78,-3006 near Crusoe. Hunger 17, health 17.33, 10 dirt. Not enclosed. Anning and Lizzie are working the top of Crusoe's cell. I place nothing
+- 03:19 act: {"actions":[{"do":"note","text":"Dusk 1192: not sheltered, hunger 17, health 17.33. Staying in sight of Crusoe and the group. Anning has placed the top -956,80,-3008. I stay out of the cell and place 
+- 03:19 act: {"actions":[],"intent":{"goal":"stay_with_crusoe_night","program":"follow","arguments":{"target":"ag_crusoe_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
+- 03:25 act: {"actions":[],"say":"Reynolds, midday 1193: I am hungry too, hunger 17, and have no food. I will walk to the stores hall with Picard and Uhura in daylight, and stay in sight of the group. Say when you
+- 03:33 act: {"actions":[{"do":"note","text":"Dusk 1193: not sheltered, hunger 17, health 17.33. Stay in sight of the group, no night walking. Going to the stores hall at first light if Uhura says go."}],"intent":
+- 03:35 act: {"actions":[],"intent":{"goal":"stay_with_crusoe","program":"follow","arguments":{"target":"ag_crusoe_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 03:50 say: {"text":"Reynolds, morning 1194: hunger 17, here in sight. I will walk to the stores hall with Picard when Uhura says go, and not before."}
+- 03:54 act: {"actions":[{"do":"goto","target":{"x":-952,"y":78,"z":-3001}}],"say":"Reynolds: stepping 5 blocks north so Crusoe can give Anning the planks. I place nothing."}
+- 03:54 act: {"actions":[],"intent":{"goal":"stay_with_group_day","program":"follow","arguments":{"target":"ag_orville_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 04:08 say: {"text":"Reynolds, midday 1195: hunger 17, I am going to the stores hall with Picard, Orville and MacDonald now, in daylight. Stay in my sight."}
+- 04:08 act: {"actions":[],"intent":{"goal":"walk_to_stores_hall_with_group","program":"follow","arguments":{"target":"ag_picard_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal
+- 04:12 act: {"say":"Reynolds: it is still day, hunger 17. Orville and Janeway are beside me. I will walk to the stores hall with the group and stay in sight. Picard, wait for us.","intent":{"goal":"stay_with_orvi
+- 04:17 act: {"actions":[{"do":"goto","target":{"x":-946,"y":78,"z":-3005}}],"say":"Reynolds: I am coming to Picard at -946,78,-3005 now, in the group's sight. Picard, say go when you are ready."}
+- 04:24 act: {"say":"Reynolds, morning 1196: hunger 17, no food, no shelter. Picard, Orville, Janeway, Balboa, Wesley: I will go to the stores hall with you in daylight. Picard, say go and I follow."}
+- 04:33 act: {"say":"Reynolds, afternoon 1196: hunger 17, no shelter, no planks. Anning, after Huck, Chapman, Sacagawea and Lewis have checked your cell, if there is room, I will check it from inside too. I stay i
+- 04:45 act: {"say":"Reynolds: going with Balboa to the stores hall now in daylight. I stay in sight of the group and will not walk alone.","intent":{"goal":"follow_balboa_to_stores","program":"follow","arguments"
