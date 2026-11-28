@@ -93,3 +93,34 @@
 - 22:35 act: {"say":"Mal here at the cow-spot table, dawn, sword in hand, hunger 17. Curie, Tesla, MacGyver: I'm coming to your sight. Call me for any cow or sheep.","actions":[]}
 - 22:39 act: {"actions":[{"do":"goto","target":"ag_curie_01"}],"say":"Coming to you, Curie, with my sword. Staying in your sight to the sheep spot."}
 - 22:39 act: {"actions":[],"say":"I can't see Curie or Tesla from the table. I'm holding here with my sword. Come to the table and call my name."}
+- 22:45 act: {"actions":[{"do":"note","text":"Dusk, day 1179. Open ground at -1010,77,-2970, no shelter, hunger 17. Asked Tesla's group to let me in."}],"say":"Tesla, Troi, MacGyver: I'm in the open with a wooden 
+- 22:45 act: {"actions":[],"say":"Mal, dusk, alone at the cow-spot table, sword in pack, no blocks to wall in. Tesla, Troi, MacGyver: if you can see me, call my name and I'll come in."}
+- 22:50 act: {"actions":[],"say":"Curie, Mal here at the cow-spot table, I can't see you from here. Say where you stand and I'll walk to you with my sword. Thank you for the dirt."}
+- 22:52 act: {"actions":[{"do":"goto","target":"ag_curie_01"}],"say":"Coming to you, Curie, sword in hand."}
+- 22:56 act: {"actions":[],"say":"Mal, dawn, sword in hand, hunger 17. Tesla, Curie: I'm at the cow-spot table, not in your sight. Call my name when you head out and I'll join."}
+- 23:00 act: {"actions":[{"do":"goto","target":{"x":-1005,"y":80,"z":-2969}}],"say":"Curie, walking to your spot at the cow spot now."}
+- 23:00 act: {"actions":[],"say":"Mal here, with Curie at the cow spot, sword out, hunger 17, no food. Tesla, Troi, MacGyver: call me for any cow, sheep or pig and I'll come."}
+- 23:05 act: {"actions":[{"do":"plan","op":"add","plan_id":"mal_cell","palette":{"d":{"block":"dirt"}},"steps":[{"op":"list","pal":"d","cells":[{"x":-1006,"y":80,"z":-2970},{"x":-1006,"y":81,"z":-2970},{"x":-1004,
+- 23:07 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-1006,"y":80,"z":-2970}},{"do":"place","block":"dirt","at":{"x":-1006,"y":81,"z":-2970}},{"do":"place","block":"dirt","at":{"x":-1004,"y":80,"z":-297
+- 23:08 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-1005,"y":82,"z":-2970}}]}
+- 23:08 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-1005,"y":81,"z":-2970}},{"do":"place","block":"dirt","at":{"x":-1005,"y":82,"z":-2970}}]}
+- 23:08 act: {"actions":[],"say":"Tesla, I can't seal my roof from inside this pit. I'm at -1005,80,-2970 with walls on four sides and open air above. Can you take me into your shelter?"}
+- 23:14 act: {"actions":[],"say":"Dawn. I'm at -1006,77,-2970 with my sword and no food. I'll join the cow hunt. Call me when you move."}
+- 23:17 act: {"actions":[],"say":"Following you, Curie.","intent":{"goal":"follow_curie","program":"follow","arguments":{"target":"ag_curie_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"
+- 23:17 act: {"actions":[],"say":"Curie, I lost sight of you. I'm in the pit at -1006,77,-2970 with 14 dirt and my sword. Please come back into view."}
+- 23:21 act: {"actions":[{"do":"goto","target":{"x":-988,"y":79,"z":-2969}}],"say":"On my way to you, Curie."}
+- 23:21 act: {"actions":[],"say":"I'm with you now, at -988,79,-2970. I have 13 dirt and my sword. I'm ready for the cow hunt, and I'll share whatever meat I find."}
+- 23:25 act: {"actions":[],"say":"Staying beside you, Curie, Troi and MacGyver, through the night. I have 13 dirt if we need to close a gap."}
+- 23:29 act: {"actions":[],"say":"Morning. I'm at hunger 17 with no food. Where do we look for cows or sheep? I'll follow whoever leads."}
+- 23:33 act: {"actions":[],"say":"Agreed. I'll stay in sight of you all and search with you.","intent":{"goal":"follow_group_food","program":"follow","arguments":{"target":"ag_macgyver_01"},"wake_on":["directly_ad
+- 23:35 act: {"actions":[],"say":"No animals on that leg? I'm with you, MacGyver. Let's try another direction together."}
+- 23:39 act: {"actions":[],"say":"I'm holding at -988,86,-3013, no one in my sight. MacGyver, Curie, Troi: come back into view and I'll follow."}
+- 23:43 act: {"actions":[{"do":"goto","target":{"x":-988,"y":79,"z":-2970}}]}
+- 23:44 act: {"actions":[],"say":"Back together. I'm following Curie for the next search. Please keep in sight.","intent":{"goal":"follow_curie_food","program":"follow","arguments":{"target":"ag_curie_01"},"wake_o
+- 23:44 act: {"actions":[{"do":"goto","target":"ag_macgyver_01"}],"say":"I lost sight of Curie. Going to MacGyver and Troi now."}
+- 23:44 act: {"actions":[],"say":"I'm with you, Troi and MacGyver. Following MacGyver toward the cow spot.","intent":{"goal":"follow_macgyver_food","program":"follow","arguments":{"target":"ag_macgyver_01"},"wake_
+- 23:48 act: {"actions":[],"say":"Mal here, with Troi and MacGyver at -989,79,-2970. Hunger 17, no food, sword and 13 dirt. I'm holding here in your sight until Curie comes back. Call me for any cow, sheep or pig.
+- 23:52 act: {"actions":[],"say":"Curie, you're in reach now. Dusk is here and none of us is enclosed. I have 13 dirt; tell me which gap to fill and I'll place it."}
+- 23:55 act: {"actions":[],"say":"Curie, my view shows walls of planks around us with one gap down on the right. I'll place dirt into that gap now if I can reach it."}
+- 00:01 act: {"actions":[],"say":"Following MacGyver to the sheep spot at -1052,75,-2991. Mal, hunger 17, sword in hand.","intent":{"goal":"follow_macgyver_sheep","program":"follow","arguments":{"target":"ag_macgy
+- 00:01 act: {"actions":[],"say":"MacGyver, Troi, Curie: I can't see any of you, so my follow failed. I'm holding at -991,79,-2970 with my sword. Come back into view and I'll walk with you to the sheep spot."}
