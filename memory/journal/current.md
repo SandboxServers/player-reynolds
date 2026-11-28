@@ -11,3 +11,7 @@
 - 06:09 act: {"actions":[{"do":"goto","target":{"x":-944,"y":77,"z":-3011}}],"say":"Sacagawea, Mal here, hunger 16, in daylight with Janeway and Samwise in sight. I'm coming to you for the raw chicken, I'm the hun
 - 06:09 act: {"actions":[],"say":"Sacagawea, I'm beside you now, hunger 16. Please give me the raw chicken, I'm the hungriest in reach."}
 - 06:11 act: {"actions":[{"do":"eat"}],"say":"Thank you, Sacagawea. Mal ate the chicken. Hunger 16 before."}
+- 06:16 act: {"intent":{"goal":"hold_in_group_sight","program":"rest","arguments":{"note":"stay put in sight of the group through the night, do not walk alone"},"wake_on":["directly_addressed","unexpected_damage",
+- 06:16 act: {"say":"Mal here, night, hunger 16, health 17. I hold still in your sight and will not walk alone. I keep my chicken for hunger 6."}
+- 06:20 act: {"intent":{"goal":"join_cow_pig_hunt_in_sight","program":"travel","arguments":{"target":{"x":-966,"y":84,"z":-2995}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_com
+- 06:20 act: {"say":"Mal, midday 1201, at the cow and pig spot, hunger 16, in sight of Sacagawea, Crusoe and Lewis. No animal in view yet. Whoever calls one, I will stand here and take a share."}
